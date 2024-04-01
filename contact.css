@@ -47,7 +47,7 @@ body {
     color: dodgerblue;
 }
 
-.Contact {
+.contact {
     min-height: auto;
     padding-bottom: 7rem;
 }
@@ -56,27 +56,27 @@ body {
     margin: 100px 0 100px;
 }
 
-.Contact form {
+.contact form {
     max-width: 70rem;
     margin: 0 auto;
     text-align: center;
 }
 
-.Contact form .fill-box {
+.contact form .fill-box {
     position: relative;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
 
-.Contact form .fill-box .fill-field {
+.contact form .fill-box .fill-field {
     position: relative;
     width: 47%;
     margin: 13px 0;
 }
 
-.Contact form .fill-box .fill-field input,
-.Contact form .text-area textarea {
+.contact form .fill-box .fill-field input,
+.contact form .text-area textarea {
     padding: 1.6rem;
     width: 100%;
     height: 50%;
@@ -88,18 +88,18 @@ body {
 
 }
 
-.Contact form .fill-box .fill-field input::placeholder
-.Contact form .text-area textarea::placeholder {
+.contact form .fill-box .fill-field input::placeholder
+.contact form .text-area textarea::placeholder {
     color: #ffffff;
 }
 
-.Contact form .text-area {
+.contact form .text-area {
     position: relative;
     margin: 8rem 0 2.7rem;
     display: flex;
 }
 
-.Contact form .text-area textarea {
+.contact form .text-area textarea {
     resize: none;
 }
 
